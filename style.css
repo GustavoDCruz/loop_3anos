@@ -1,5 +1,7 @@
 h1 {color: brown;
-}
+    text-align: center;
+    font-size: 50%;
+    
 #texto-animado {
     font-family: 'Arial', sans-serif;
     font-size: 48px;
