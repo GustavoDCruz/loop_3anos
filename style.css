@@ -54,4 +54,11 @@ h3 {
     font-style: normal;
   }
   
-  
+  h2 {font-size: 300%;
+text-align: center;
+color: cadetblue;
+}
+h3 {font-size: 250%;
+color: aqua;
+text-align: left;
+}
