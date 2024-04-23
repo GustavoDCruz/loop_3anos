@@ -62,3 +62,15 @@ h3 {font-size: 250%;
 color: aqua;
 text-align: left;
 }
+
+#ind {margin-left: 30%;}
+#ind {border:solid  red ;}
+#ind {width: 45%;}
+
+#sete {margin-left: 30%;}
+#sete {border:solid  red ;}
+#sete {width: 45%;}
+
+#doze {margin-left: 30%;}
+#doze {border:solid  red ;}
+#doze {width: 45%;}
