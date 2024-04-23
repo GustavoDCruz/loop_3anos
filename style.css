@@ -1,7 +1,10 @@
 h1 {
-    font-family: "Mr Dafoe", cursive;
-    font-weight: 400;
-    font-style: normal;
+
+        font-family: "Freehand", cursive;
+        font-weight: 400;
+        font-style: normal;
+      
+      
   }
   h1 {margin-right: 20%;
     margin-left: 20%;}
@@ -44,12 +47,13 @@ h1 {color: rgb(50, 42, 165);
 }
 body {background-color: black;}
 h2 {
-    font-family: "Mr Dafoe", cursive;
+    font-family: "Freehand", cursive;
     font-weight: 400;
     font-style: normal;
   }
+  
 h3 {
-    font-family: "Mr Dafoe", cursive;
+    font-family: "Elsie", serif;
     font-weight: 400;
     font-style: normal;
   }
